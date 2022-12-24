@@ -1,0 +1,6 @@
+This is chapter 2. We have learnt the following commands:
+1. git init: initialise the repository in current directory
+2. git status: to know the status how many files aren't in stagnated area
+3. git add fileName: adds the fileName to stagnated area
+4. git commit -m "abc": creates new version of all the newly added staged files at this point
+5. git log: tells the whole history of our repository version control
