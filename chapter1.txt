@@ -1,1 +1,2 @@
 This is chapter 1. We will learn a lot!
+Let's update this to learn more and see how push work when cloned into local repo
