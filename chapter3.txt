@@ -2,7 +2,7 @@ This is chapter 3. We will see how to go back to our previous version
 What we have further learnt ->
 1. git checkout fileName: to got to previous saved version
 2. git remote add origin <remote_url>: sets the new remote
-3. git push -u origin major: push our current remote repository to remote repo.
+3. git push -u origin master: push our current local repository to remote repo.
 4. git branch branchName: Cretes new branch sideway by major branch
 5. git branch: gives all branches and also tells which branch we are working on
 6. git checkout branchName: shifts us from current branch to the branch branchName
